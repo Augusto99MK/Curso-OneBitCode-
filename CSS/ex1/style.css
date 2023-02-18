@@ -1,0 +1,32 @@
+title {
+  color: white;
+}
+
+body {
+  background-color: #2c3e50;
+}
+
+#days-of-week {
+  color: white;
+}
+
+.daysweek {
+  color: black;
+  border: 2px solid;
+  background-color: yellow;
+}
+
+.week {
+  color: yellow;
+}
+
+ul {
+  color: white;
+}
+
+#astronomy-class {
+  color: red;
+}
+h1 {
+  color: white;
+}

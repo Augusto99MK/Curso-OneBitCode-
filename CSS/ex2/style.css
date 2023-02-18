@@ -1,0 +1,30 @@
+/* Dates settings */
+
+.date {
+  color: grey;
+  font-family: "Roboto";
+}
+
+/* Title Blog */
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Content */
+
+.post-content {
+  font-family: "Montserrat";
+}
+
+.post-container {
+  width: 70%;
+  height: 100%;
+  margin: 0px auto 0px auto;
+  background-color: #fffafa;
+}
+
+body {
+  margin: 0;
+  line
+}
